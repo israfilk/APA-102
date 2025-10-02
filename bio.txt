@@ -1,3 +1,4 @@
 ad = İsrafil
 soyad = Kerimov
 yas = 18
+uni = AzTU
