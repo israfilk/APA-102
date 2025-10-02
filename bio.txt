@@ -1,2 +1,3 @@
-İsrafil
-Kerimov
+ad = İsrafil
+soyad = Kerimov
+yas = 18
