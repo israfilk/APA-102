@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj": {}
+    "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj": {}
   },
   "projects": {
-    "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj": {
+    "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj",
+        "projectUniqueName": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj",
         "projectName": "Abstraction_Overloading",
-        "projectPath": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj",
+        "projectPath": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Abstraction_Overloading.csproj",
         "packagesPath": "C:\\Users\\I Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\obj\\",
+        "outputPath": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

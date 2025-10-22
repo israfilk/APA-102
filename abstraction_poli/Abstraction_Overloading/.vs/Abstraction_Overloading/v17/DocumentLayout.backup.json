@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\",
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|c:\\users\\i novbe\\desktop\\abstraction_poli\\abstraction_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|c:\\users\\i novbe\\desktop\\apa-102\\abstraction_poli\\abstraction_overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|c:\\users\\i novbe\\desktop\\abstraction_poli\\abstraction_overloading\\models\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|c:\\users\\i novbe\\desktop\\apa-102\\abstraction_poli\\abstraction_overloading\\models\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|solutionrelative:models\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|c:\\users\\i novbe\\desktop\\abstraction_poli\\abstraction_overloading\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|c:\\users\\i novbe\\desktop\\apa-102\\abstraction_poli\\abstraction_overloading\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF168C8-FF7B-4F05-B4AE-227061EBF8D3}|Abstraction_Overloading.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,37 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ebook.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Models\\Ebook.cs",
-              "RelativeDocumentMoniker": "Models\\Ebook.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Models\\Ebook.cs",
-              "RelativeToolTip": "Models\\Ebook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:43:57.56Z"
+              "WhenOpened": "2025-10-22T07:43:44.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Models\\Book.cs",
-              "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Models\\Ebook.cs",
+              "RelativeDocumentMoniker": "Models\\Ebook.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Models\\Ebook.cs",
+              "RelativeToolTip": "Models\\Ebook.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:43:44.571Z"
+              "WhenOpened": "2025-10-22T07:43:57.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\abstraction_poli\\Abstraction_Overloading\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\I Novbe\\Desktop\\APA-102\\abstraction_poli\\Abstraction_Overloading\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T07:42:15.265Z",
               "EditorCaption": ""

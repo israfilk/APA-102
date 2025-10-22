@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abstraction_Overloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65c5726048e796e2c6cb02bb0457e1eab8cac924")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abstraction_Overloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abstraction_Overloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
